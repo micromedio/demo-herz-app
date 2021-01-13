@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://herz-ui.micromed.io/">Micromed!</a>
+          Welcome to <a href="https://herz-ui.micromed.io/">Herz UI!</a>
         </h1>
 
         <p className={styles.description}>
