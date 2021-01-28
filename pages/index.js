@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 
-import { Button } from "@micromed/herz-ui/components";
+import { Button } from "@micromed/herz-ui/lib/components";
 
 export default function Home() {
   return (

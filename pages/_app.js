@@ -1,4 +1,4 @@
-import ThemeWrapper from "@micromed/herz-ui/theme/ThemeWrapper";
+import ThemeWrapper from "@micromed/herz-ui/lib/theme/ThemeWrapper";
 
 function MyApp({ Component, pageProps }) {
   return (
